@@ -10,7 +10,7 @@
 Create a new environment
 
 ```
-python -m venv .venvpython -m venv .venv
+python -m venv .ven
 
 ```
 ### Relevant Information:
